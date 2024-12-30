@@ -1,0 +1,5 @@
+@echo off
+"C:\\Users\\mhentschel\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+  -C ^
+  "C:\\Users\\mhentschel\\FAUbox\\6. Semester\\Projektarbeit\\RunalyzerAPP\\opencv\\.cxx\\Debug\\3ax3e4x6\\x86" ^
+  opencv_jni_shared

@@ -1,0 +1,4 @@
+/Users/Benjamin/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/Benjamin/Projektarbeit/RunalyzerAPP/opencv/.cxx/Debug/3ax3e4x6/x86 \
+  opencv_jni_shared
